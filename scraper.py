@@ -155,6 +155,7 @@ def process_job(job):
 
     return this_job
 
+
 def save_known_opportunities(file_path, jobs):
     """Saves the found opportunities into a JSON file"""
 
