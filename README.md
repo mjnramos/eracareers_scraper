@@ -13,9 +13,8 @@ apart.
 
 * [Install](#install)
   * [Requirements](#requirements)
-  * [Installation](#instalation)
 * [Usage](#usage)
-  * [Direct usage](#directusage)
+  * [Direct usage](#direct-usage)
   * [Cron](#cron)
 * [Contributing](#contributing)
   * [Contributors](#contributors)
