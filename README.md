@@ -39,7 +39,7 @@ This project was tested with Python3 (v3.6.9) and the following libraries:
 
 1. `git clone` this repository
 ~~~
-git clone <adress>
+git clone https://github.com/mjnramos/eracareers_scraper.git
 ~~~
 
 2. Run the scraper script
