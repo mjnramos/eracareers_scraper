@@ -1,0 +1,6 @@
+# Ignore database files -- default ones, at least!
+all_opportunities.json
+new_jobs.csv
+
+# Ignore log files
+*.log
